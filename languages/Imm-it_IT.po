@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: MapsMarker.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-12 16:42+0100\n"
-"PO-Revision-Date: 2012-02-12 18:10+0100\n"
+"PO-Revision-Date: 2012-02-12 18:36+0100\n"
 "Last-Translator: Francesco Bartoli <francesco.bartoli@geobeyond.it>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "Campo di base"
 
 #: ../class-leaflet-options.php:61
 msgid "This is a default description."
-msgstr "Questa è la descrizione base"
+msgstr "Questa è la descrizione base."
 
 #: ../class-leaflet-options.php:93
 #: ../leaflet-admin-header.php:8
@@ -309,29 +309,29 @@ msgstr "Mappa da satellite OGD Vienna"
 
 #: ../class-leaflet-options.php:580
 msgid "If coordinates within boundaries of Vienna/Austria are selected for a marker or layer, the basemap automatically switches to OGD Vienna basemap and the overlay OGD Vienna addresses gets checked."
-msgstr ""
+msgstr "Se vengono selezionate le coordinate dentro i confini di Vienna/Austria per un marker o un layer, allora la mappa di base cambia automaticamente con quella dell'OGD Vienna e viene abilitata la sovrapposizione dei rispettivi indirizzi."
 
 #: ../class-leaflet-options.php:591
 msgid "enabled (use OGD Vienna basemap)"
-msgstr ""
+msgstr "abilitato (usa la mappa di base OGD Vienna)"
 
 #: ../class-leaflet-options.php:592
 msgid "enabled (use OGD Vienna satellite)"
-msgstr ""
+msgstr "abilitato (usa la mappa da satellite OGD Vienna)"
 
 #: ../class-leaflet-options.php:593
 msgid "disabled (use default basemap)"
-msgstr ""
+msgstr "disabilitato (usa la mappa di base di default)"
 
 #: ../class-leaflet-options.php:600
 msgid "enable OGD Vienna addresses overlay"
-msgstr ""
+msgstr "abilita la sovrapposizione degli indirizzi di OGD Vienna"
 
 #: ../class-leaflet-options.php:619
 #: ../class-leaflet-options.php:698
 #: ../class-leaflet-options.php:777
 msgid "Please enter settings for custom basemap"
-msgstr ""
+msgstr "Inserisci, per favore, le impostazioni per la mappa di base personalizzata"
 
 #: ../class-leaflet-options.php:624
 #: ../class-leaflet-options.php:703
@@ -353,7 +353,7 @@ msgstr ""
 #: ../leaflet-list-layers.php:35
 #: ../leaflet-list-layers.php:76
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: ../class-leaflet-options.php:625
 #: ../class-leaflet-options.php:704
@@ -363,7 +363,7 @@ msgstr ""
 #: ../class-leaflet-options.php:1081
 #: ../class-leaflet-options.php:1159
 msgid "Will be displayed in controlbox if selected"
-msgstr ""
+msgstr "Se selezionato verrà visualizzato nel panello di controllo"
 
 #: ../class-leaflet-options.php:633
 #: ../class-leaflet-options.php:712
@@ -373,7 +373,7 @@ msgstr ""
 #: ../class-leaflet-options.php:1088
 #: ../class-leaflet-options.php:1167
 msgid "Tiles URL"
-msgstr ""
+msgstr "URL dei tiles"
 
 #: ../class-leaflet-options.php:634
 #: ../class-leaflet-options.php:642
@@ -403,7 +403,7 @@ msgstr ""
 #: ../class-leaflet-options.php:3021
 #: ../class-leaflet-options.php:3218
 msgid "For example"
-msgstr ""
+msgstr "Ad esempio"
 
 #: ../class-leaflet-options.php:641
 #: ../class-leaflet-options.php:720
@@ -423,7 +423,7 @@ msgstr ""
 #: ../class-leaflet-options.php:2981
 #: ../class-leaflet-options.php:3178
 msgid "Attribution"
-msgstr ""
+msgstr "Attribuzione"
 
 #: ../class-leaflet-options.php:649
 #: ../class-leaflet-options.php:728
@@ -433,7 +433,7 @@ msgstr ""
 #: ../class-leaflet-options.php:1104
 #: ../class-leaflet-options.php:1183
 msgid "Minimum zoom level"
-msgstr ""
+msgstr "Livello di zoom minimo"
 
 #: ../class-leaflet-options.php:650
 #: ../class-leaflet-options.php:658
@@ -450,7 +450,7 @@ msgstr ""
 #: ../class-leaflet-options.php:1184
 #: ../class-leaflet-options.php:1192
 msgid "Note: maximum zoom level may vary on your basemap"
-msgstr ""
+msgstr "Nota: il livello di zoom massimo può variare sulla tua mappa di base"
 
 #: ../class-leaflet-options.php:657
 #: ../class-leaflet-options.php:736
@@ -460,7 +460,7 @@ msgstr ""
 #: ../class-leaflet-options.php:1112
 #: ../class-leaflet-options.php:1191
 msgid "Maximum zoom level"
-msgstr ""
+msgstr "livello di zoom massimo"
 
 #: ../class-leaflet-options.php:666
 #: ../class-leaflet-options.php:745
@@ -480,7 +480,7 @@ msgstr ""
 #: ../class-leaflet-options.php:3009
 #: ../class-leaflet-options.php:3206
 msgid "Support for subdomains?"
-msgstr ""
+msgstr "Supporto per sotto-domini?"
 
 #: ../class-leaflet-options.php:667
 #: ../class-leaflet-options.php:746
@@ -490,7 +490,7 @@ msgstr ""
 #: ../class-leaflet-options.php:1122
 #: ../class-leaflet-options.php:1201
 msgid "Will replace {s} from tiles url if available"
-msgstr ""
+msgstr "Verranno rimpiazzate le {s} dalle url dei tiles, se disponibili"
 
 #: ../class-leaflet-options.php:671
 #: ../class-leaflet-options.php:750
@@ -510,7 +510,7 @@ msgstr ""
 #: ../class-leaflet-options.php:3015
 #: ../class-leaflet-options.php:3212
 msgid "Yes (please enter subdomains in next form field)"
-msgstr ""
+msgstr "Si (per favore inserisci i sotto-domini nel prossimo campo)"
 
 #: ../class-leaflet-options.php:672
 #: ../class-leaflet-options.php:751
@@ -540,7 +540,7 @@ msgstr ""
 #: ../class-leaflet-options.php:3192
 #: ../class-leaflet-options.php:3211
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: ../class-leaflet-options.php:677
 #: ../class-leaflet-options.php:756
@@ -560,7 +560,7 @@ msgstr ""
 #: ../class-leaflet-options.php:3020
 #: ../class-leaflet-options.php:3217
 msgid "Subdomain names"
-msgstr ""
+msgstr "Nomi dei sotto-domini"
 
 #: ../class-leaflet-options.php:864
 msgid "Please select the overlays which should be available in the control box."
@@ -1296,67 +1296,67 @@ msgstr ""
 #: ../class-leaflet-options.php:3925
 #: ../class-leaflet-options.php:4207
 msgid "Checked WMS layers"
-msgstr ""
+msgstr "Layer WMS selezonati"
 
 #: ../class-leaflet-options.php:3723
 #: ../class-leaflet-options.php:3926
 #: ../class-leaflet-options.php:4208
 msgid "WMS 1"
-msgstr ""
+msgstr "WMS 1"
 
 #: ../class-leaflet-options.php:3731
 #: ../class-leaflet-options.php:3934
 #: ../class-leaflet-options.php:4216
 msgid "WMS 2"
-msgstr ""
+msgstr "WMS 2"
 
 #: ../class-leaflet-options.php:3739
 #: ../class-leaflet-options.php:3942
 #: ../class-leaflet-options.php:4224
 msgid "WMS 3"
-msgstr ""
+msgstr "WMS 3"
 
 #: ../class-leaflet-options.php:3747
 #: ../class-leaflet-options.php:3950
 #: ../class-leaflet-options.php:4232
 msgid "WMS 4"
-msgstr ""
+msgstr "WMS 4"
 
 #: ../class-leaflet-options.php:3755
 #: ../class-leaflet-options.php:3958
 #: ../class-leaflet-options.php:4240
 msgid "WMS 5"
-msgstr ""
+msgstr "WMS 5"
 
 #: ../class-leaflet-options.php:3763
 #: ../class-leaflet-options.php:3966
 #: ../class-leaflet-options.php:4248
 msgid "WMS 6"
-msgstr ""
+msgstr "WMS 6"
 
 #: ../class-leaflet-options.php:3771
 #: ../class-leaflet-options.php:3974
 #: ../class-leaflet-options.php:4256
 msgid "WMS 7"
-msgstr ""
+msgstr "WMS 7"
 
 #: ../class-leaflet-options.php:3779
 #: ../class-leaflet-options.php:3982
 #: ../class-leaflet-options.php:4264
 msgid "WMS 8"
-msgstr ""
+msgstr "WMS 8"
 
 #: ../class-leaflet-options.php:3787
 #: ../class-leaflet-options.php:3990
 #: ../class-leaflet-options.php:4272
 msgid "WMS 9"
-msgstr ""
+msgstr "WMS 9"
 
 #: ../class-leaflet-options.php:3795
 #: ../class-leaflet-options.php:3998
 #: ../class-leaflet-options.php:4280
 msgid "WMS 10"
-msgstr ""
+msgstr "WMS 10"
 
 #: ../class-leaflet-options.php:3815
 msgid "You can also add markers directly to posts or pages without having to save them to your database previously. You just have to use the shortcode with the attributes mlat and mlon (e.g. <strong>[mapsmarker mlat=\"48.216038\" mlon=\"16.378984\"]</strong>)."
