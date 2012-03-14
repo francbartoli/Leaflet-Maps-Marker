@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: MapsMarker.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-12 16:42+0100\n"
-"PO-Revision-Date: 2012-02-22 18:00+0100\n"
+"PO-Revision-Date: 2012-03-14 14:14+0100\n"
 "Last-Translator: Francesco Bartoli <francesco.bartoli@geobeyond.it>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1484,7 +1484,7 @@ msgstr ""
 
 #: ../class-leaflet-options.php:4531
 msgid "Map type"
-msgstr ""
+msgstr "Tipo mappa"
 
 #: ../class-leaflet-options.php:4536
 #: ../leaflet-fullscreen.php:145
@@ -1533,31 +1533,31 @@ msgstr ""
 #: ../leaflet-marker.php:511
 #: ../leaflet-marker.php:512
 msgid "Map"
-msgstr ""
+msgstr "Mappa"
 
 #: ../class-leaflet-options.php:4537
 msgid "Satellite"
-msgstr ""
+msgstr "Satellite"
 
 #: ../class-leaflet-options.php:4538
 msgid "Hybrid"
-msgstr ""
+msgstr "Ibrido"
 
 #: ../class-leaflet-options.php:4539
 msgid "Terrain"
-msgstr ""
+msgstr "Terreno"
 
 #: ../class-leaflet-options.php:4545
 msgid "Show traffic layer?"
-msgstr ""
+msgstr "Visualizzo layer di traffico?"
 
 #: ../class-leaflet-options.php:4557
 msgid "Distance units"
-msgstr ""
+msgstr "Unità di misura della distanza"
 
 #: ../class-leaflet-options.php:4562
 msgid "metric (km)"
-msgstr ""
+msgstr "metrica (km)"
 
 #: ../class-leaflet-options.php:4563
 msgid "imperial (miles)"
@@ -1566,68 +1566,68 @@ msgstr ""
 #: ../class-leaflet-options.php:4569
 #: ../class-leaflet-options.php:4666
 msgid "Route type"
-msgstr ""
+msgstr "Tipo rotta"
 
 #: ../class-leaflet-options.php:4570
 msgid "Avoid highways"
-msgstr ""
+msgstr "Evita strade principali"
 
 #: ../class-leaflet-options.php:4578
 msgid "Avoid tolls"
-msgstr ""
+msgstr "Evita pegaggi"
 
 #: ../class-leaflet-options.php:4586
 msgid "Public transport (works only in some areas)"
-msgstr ""
+msgstr "Transporto pubblico (funziona solo in alcune aree)"
 
 #: ../class-leaflet-options.php:4594
 msgid "Walking directions"
-msgstr ""
+msgstr "Direzioni di cammino"
 
 #: ../class-leaflet-options.php:4601
 msgid "Language"
-msgstr ""
+msgstr "Linguaggio"
 
 #: ../class-leaflet-options.php:4606
 #: ../class-leaflet-options.php:4728
 msgid "English"
-msgstr ""
+msgstr "Inglese"
 
 #: ../class-leaflet-options.php:4607
 #: ../class-leaflet-options.php:4729
 msgid "German"
-msgstr ""
+msgstr "Tedesco"
 
 #: ../class-leaflet-options.php:4608
 #: ../class-leaflet-options.php:4730
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: ../class-leaflet-options.php:4609
 #: ../class-leaflet-options.php:4731
 msgid "French"
-msgstr ""
+msgstr "Francese"
 
 #: ../class-leaflet-options.php:4610
 #: ../class-leaflet-options.php:4732
 msgid "Spanish"
-msgstr ""
+msgstr "Spagnolo"
 
 #: ../class-leaflet-options.php:4611
 msgid "Chinese (simplified)"
-msgstr ""
+msgstr "Cinese (semplificato)"
 
 #: ../class-leaflet-options.php:4612
 msgid "Dutch"
-msgstr ""
+msgstr "Olandese"
 
 #: ../class-leaflet-options.php:4613
 msgid "Japanese"
-msgstr ""
+msgstr "Giapponese"
 
 #: ../class-leaflet-options.php:4614
 msgid "Catalan"
-msgstr ""
+msgstr "Catalano"
 
 #: ../class-leaflet-options.php:4615
 msgid "Galego"
@@ -1639,93 +1639,93 @@ msgstr ""
 
 #: ../class-leaflet-options.php:4622
 msgid "Overview map"
-msgstr ""
+msgstr "Overview di mappa"
 
 #: ../class-leaflet-options.php:4628
 #: ../leaflet-list-layers.php:128
 #: ../leaflet-list-markers.php:201
 msgid "visible"
-msgstr ""
+msgstr "visibile"
 
 #: ../class-leaflet-options.php:4639
 msgid "yournavigation.org settings"
-msgstr ""
+msgstr "Impostazioni yournavigation.org"
 
 #: ../class-leaflet-options.php:4653
 msgid "Type of transport"
-msgstr ""
+msgstr "Tipo di trasporto"
 
 #: ../class-leaflet-options.php:4658
 msgid "Motorcar"
-msgstr ""
+msgstr "Motocicletta"
 
 #: ../class-leaflet-options.php:4659
 msgid "Bicycle"
-msgstr ""
+msgstr "Bicicletta"
 
 #: ../class-leaflet-options.php:4660
 msgid "Foot"
-msgstr ""
+msgstr "A piedi"
 
 #: ../class-leaflet-options.php:4671
 #: ../class-leaflet-options.php:4714
 msgid "fastest route"
-msgstr ""
+msgstr "Percorso più veloce"
 
 #: ../class-leaflet-options.php:4672
 #: ../class-leaflet-options.php:4715
 msgid "shortest route"
-msgstr ""
+msgstr "Percorso più breve"
 
 #: ../class-leaflet-options.php:4678
 msgid "Gosmore instance to calculate the route"
-msgstr ""
+msgstr "Instanza Gosmore per calcolare la rotta"
 
 #: ../class-leaflet-options.php:4683
 msgid "mapnik (for normal routing using car, bicycle or foot)"
-msgstr ""
+msgstr "mapnik (per calcola percorso normale utilizzando l'auto, la bicicletta o a piedi)"
 
 #: ../class-leaflet-options.php:4684
 msgid "cn (for using bicycle routing using cycle route networks only)"
-msgstr ""
+msgstr "cn (per calcola percorso utilizzando solo le piste ciclabili)"
 
 #: ../class-leaflet-options.php:4695
 msgid "openrouteservice.org settings"
-msgstr ""
+msgstr "Impostazioni openrouteservice.org"
 
 #: ../class-leaflet-options.php:4709
 msgid "Route preferences"
-msgstr ""
+msgstr "Preferenze percorso"
 
 #: ../class-leaflet-options.php:4716
 msgid "route for pedestrians"
-msgstr ""
+msgstr "percorso per "
 
 #: ../class-leaflet-options.php:4717
 msgid "route for bicycles"
-msgstr ""
+msgstr "percorso per biciclette"
 
 #: ../class-leaflet-options.php:4723
 msgid "Language of route instructions"
-msgstr ""
+msgstr "Lingua delle istruzioni del percorso"
 
 #: ../class-leaflet-options.php:4738
 msgid "No motorways?"
-msgstr ""
+msgstr "Nessuna motocicletta?"
 
 #: ../class-leaflet-options.php:4743
 #: ../class-leaflet-options.php:4755
 msgid "false"
-msgstr ""
+msgstr "falso"
 
 #: ../class-leaflet-options.php:4744
 #: ../class-leaflet-options.php:4756
 msgid "true"
-msgstr ""
+msgstr "vero"
 
 #: ../class-leaflet-options.php:4750
 msgid "No tollways?"
-msgstr ""
+msgstr "Nessun pedaggio"
 
 #: ../class-leaflet-options.php:4774
 msgid "Markers created with Leaflet Maps Marker can also be displayed via <a href=\"http://en.wikipedia.org/wiki/Augmented_reality\" target=\"_blank\">Augmented-Reality technology</a> on mobile devices. As a first steps, an API to <a href=\"http://www.wikitude.com\" target=\"_blank\">Wikitude</a> has been implemented. APIs to other Augmented-Reality-Providers (like <a href=\"http://www.layar.com\" target=\"_blank\">Layar</a> or <a href=\"http://www.junaio.de\" target=\"_blank\">Junaio</a>) will probably follow in one of the next versions. Sample screenshots:"
